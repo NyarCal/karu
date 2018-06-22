@@ -8,4 +8,4 @@ python:
 
 # command to run tes# ts
 script:
-  - pytest # or py.test for Python versions 3.5 and below
+  - nosetests # or py.test for Python versions 3.5 and below
